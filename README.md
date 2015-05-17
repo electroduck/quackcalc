@@ -1,4 +1,4 @@
-# QuackCalc Graphinc Calculator #
+# QuackCalc Graphing Calculator #
 Graph mathematical expressions with QuackCalc, an open-source graphing calculator program for Windows.
 
 Math in QuackCalc works the same way as it does in Excel formulas, as QuackCalc uses the MS Script Control library.
